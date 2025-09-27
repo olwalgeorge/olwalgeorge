@@ -2,11 +2,11 @@
 
 Hello, GitHub! 👋
 
-I'm George Omondi Olwal, a dedicated Software Developer passionate about full-stack development and emerging technologies like Generative AI. I'm currently pursuing dual degrees at Brigham Young University-Idaho and KCA University, with over 15 years of professional experience in software development. Welcome to my GitHub profile!
+I'm George Omondi Olwal, a dedicated Software Developer passionate about full-stack development and emerging technologies like Generative AI. I'm currently pursuing a BS in Data Science at KCA University (Kisumu, Kenya) and a BS in Software Development at Brigham Young University-Idaho (USA), with over 15 years of professional experience in software development. Welcome to my GitHub profile!
 
 ## About Me
 
-- 🎓 I'm currently learning **Data Analysis** and **Generative AI** at KCA University, and **Web Development** & **Software Development** at BYU-Idaho
+- 🎓 I'm currently pursuing a **BS in Data Science** at KCA University (Kisumu, Kenya) and a **BS in Software Development** at BYU-Idaho (USA)
 - 🚀 My goals are to join an innovative team where I can contribute to cutting-edge projects and continue growing as a full-stack developer
 - 💡 Ask me about **JavaScript frameworks**, **mobile app development**, **AI/ML integration**, or **web optimization**
 - 📈 I've helped increase customer satisfaction by 25% and improved issue resolution processes by 30% in my current role
@@ -102,7 +102,7 @@ A comprehensive chamber of commerce website featuring responsive design, interac
 
 ## Current Focus
 
-- 🎓 Pursuing dual degrees in Computer Science and Web Development
+- 🎓 Pursuing dual Bachelor's degrees: Data Science and Software Development
 - 🤖 Exploring Generative AI and its applications in software development
 - 🌱 Contributing to open-source projects and collaborative development
 - 💼 Seeking opportunities to join innovative teams working on cutting-edge technology
