@@ -31,6 +31,7 @@ I'm George Omondi Olwal, a dedicated Software Developer passionate about full-st
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="Nest.js" alt="Nest.js" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/quarkus/quarkus-original.svg" title="Quarkus" alt="Quarkus" width="40" height="40"/>&nbsp;
 </div>
 
 ### Backend & Database
@@ -38,6 +39,8 @@ I'm George Omondi Olwal, a dedicated Software Developer passionate about full-st
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
 </div>
@@ -56,7 +59,8 @@ I'm George Omondi Olwal, a dedicated Software Developer passionate about full-st
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
 </div>
 
-- **Proficient in**: JavaScript, TypeScript, Python, HTML5, CSS, React, Node.js, Java
+- **Proficient in**: JavaScript, TypeScript, Python, HTML5, CSS, React, Node.js, Java, C++, C#
+- **Frameworks**: React, Angular, Vue.js, Next.js, Nest.js, Express.js, Quarkus
 - **AI/ML Tools**: LangChain, LangGraph, TensorFlow, PyTorch, OpenAI
 - **Analytics**: Google Analytics, Mixpanel
 - **Development Tools**: GitHub Copilot, Git, Agile methodologies
